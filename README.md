@@ -1,4 +1,4 @@
-🏋️ AI-Powered Fitness App Analytics
+ChurnBurn: User Drop-off & Retention Tracking in Fitness App
 This project analyzes data from a fitness app to understand how users behave, why they leave (churn), and how the company can keep them engaged. It uses tools like Excel, SQL, and Power BI to turn raw data into useful business insights.
 
 🔧 Tools Used
@@ -36,7 +36,7 @@ Personalized suggestions can help reduce churn
 Active users prefer workout tracking and goal-setting features
 
 📁 Project Structure
-AI-Fitness-App-Analytics/
+ChurnBurn: User Drop-off & Retention Tracking in Fitness App
 ├── README.md
 ├── PowerBI_Dashboard.pbix
 ├── SQL_Queries.sql
